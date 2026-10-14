@@ -1,0 +1,6 @@
+{
+  "name": "CryptoVest - USDT Investment & Trading Platform",
+  "description": "Secure Bitcoin (BTC) crypto investment platform funded via USDT currency with 22-country phone registration, multi-language support, identity verification (Driver's License, National ID, Passport) with Admin approval, and comprehensive Admin back-office.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
